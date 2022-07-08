@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AuditLibrarySQL/v16
+/.vs
+/AuditLibrarySQL/.vs/AuditLibrarySQL/v16
+/AuditLibrarySQL/obj/Debug/net5.0
+/AuditLibrarySQL/obj
